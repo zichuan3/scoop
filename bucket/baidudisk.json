@@ -1,10 +1,10 @@
 {
-  "version": "7.59.0.103",
+  "version": "7.60.7.104",
   "description": "百度网盘PC版 ",
   "homepage": "https://pan.baidu.com/download",
   "license": "Proprietary",
-  "url": "http://issuecdn.baidupcs.com/issue/netdisk/yunguanjia/BaiduNetdisk_7.59.0.103.exe#dl.7z",
-  "hash": "743cdda572755c54b957ab8ac3f94961e8da832563260f4c7c2f06285feb5707",
+  "url": "http://issuecdn.baidupcs.com/issue/netdisk/yunguanjia/BaiduNetdisk_7.60.7.104.exe#dl.7z",
+  "hash": "f7aeac200cc60a23d90164128e1f2c35348e04b5c7212283d36defeefa294663",
   "bin": "BaiduNetdisk.exe",
   "persist": "users",
   "post_install": [
